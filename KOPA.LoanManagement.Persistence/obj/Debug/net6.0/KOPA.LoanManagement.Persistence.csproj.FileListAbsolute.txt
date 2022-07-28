@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Persistence.deps.json
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Persistence.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\ref\KOPA.LoanManagement.Persistence.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Persistence.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\bin\Debug\net6.0\KOPA.LoanManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.csproj.CopyComplete
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\ref\KOPA.LoanManagement.Persistence.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Persistence\obj\Debug\net6.0\KOPA.LoanManagement.Persistence.pdb

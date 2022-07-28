@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\KOPA.LoanManagement.Application.deps.json
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\ref\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\KOPA.LoanManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\KOPA.LoanManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\bin\Debug\net6.0\KOPA.LoanManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.csproj.CopyComplete
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\ref\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Application\obj\Debug\net6.0\KOPA.LoanManagement.Application.pdb

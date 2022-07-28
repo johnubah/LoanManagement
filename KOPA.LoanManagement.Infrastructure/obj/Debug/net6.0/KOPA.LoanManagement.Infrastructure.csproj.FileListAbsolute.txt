@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Infrastructure.deps.json
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\ref\KOPA.LoanManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\ref\KOPA.LoanManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Application.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\bin\Debug\net6.0\KOPA.LoanManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\VisualStudio\2022\KOPA.LoanManagement\KOPA.LoanManagement.Infrastructure\obj\Debug\net6.0\KOPA.LoanManagement.Infrastructure.csproj.CopyComplete

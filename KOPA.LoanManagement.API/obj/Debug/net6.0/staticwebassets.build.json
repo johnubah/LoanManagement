@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L1BbpGZ0eCfpfkc+81PIxKpswg0hASJ7t/BT1PxMKgc=",
+  "Source": "KOPA.LoanManagement.API",
+  "BasePath": "_content/KOPA.LoanManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
